@@ -29,7 +29,7 @@
   </div>
 
   </div>      
-  <img align="right" height="190" width="350" alt="GIF" src="https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif" align="right">
+  <img align="right" height="195" width="350" alt="GIF" src="https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif" align="right">
     </div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macielthiago89&show_icons=true&theme=tokyonight)
