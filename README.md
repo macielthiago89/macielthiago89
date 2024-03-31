@@ -40,5 +40,7 @@
   <img align="center" alt="Thiago-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Thiago-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://github.com/macielthiago89/macielthiago89/assets/92893341/47fbee38-1830-4719-b39b-c07fcc6b29b1">
+
 </div>  
 
